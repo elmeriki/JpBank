@@ -5,7 +5,7 @@ console.log("Hello Fritzgates");
 console.log("Chialuka Foy");
 console.log("hello fredtambe");
 console.log("hello obendang");
-console.log("Hello badenp powel");
+console.log("Hello baden powel");
 
 
 
